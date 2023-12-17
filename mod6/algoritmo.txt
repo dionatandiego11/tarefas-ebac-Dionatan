@@ -1,0 +1,6 @@
+Inicio
+1.	Abrir o olho;
+2.	Olhar o celular;
+3.	Calçar o chinelo; 
+4.	Levantar;
+5.	Fim;

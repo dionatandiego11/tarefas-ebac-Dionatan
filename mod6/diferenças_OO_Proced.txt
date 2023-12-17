@@ -1,0 +1,12 @@
+Programação Procedural:
+
+Foca em funções e procedimentos. O programa é uma série de passos a serem executados.
+Dados e funções são separados. Os dados são globais e as funções operam nesses dados.
+Dificuldade em reutilização de código. Como dados e funções são separados, é difícil reaproveitar trechos de código.
+Programação Orientada a Objetos:
+
+Foca em objetos que contém dados (atributos) e código (métodos). Objetos interagem entre si para executar tarefas.
+Integração entre dados e funções. Cada objeto guarda seus próprios dados e funções para operar nesses dados.
+Facilidade em reutilização de código. Como tudo relativo a um objeto está integrado, fica fácil reutilizar trechos de código criando novas classes.
+Permite encpsular e esconder detalhes internos dos objetos, mostrando apenas uma interface simplificada.
+Facilita modelar código com base em objetos do mundo real por meio de abstrações.
