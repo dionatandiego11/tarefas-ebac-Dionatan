@@ -1,0 +1,2 @@
+Criar classe chamada Pessoa #Abstrata, geral = Nome
+Criar duas sub-classes = PessoaFisica e PessoaJuridica #Concreta, especifica CNPJ, CPF
