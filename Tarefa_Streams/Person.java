@@ -1,7 +1,8 @@
 enum Gender {
-    MALE,
-    FEMALE
+    HOMEM,
+    MULHER
 }
+
 public class Person {
 
     private String name;
