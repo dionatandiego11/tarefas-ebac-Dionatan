@@ -1,16 +1,7 @@
-package br.com.rpires.list;
-
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
-/**
- *
- * É como um array cujo tamanho pode crescer.
- * A busca de um elemento é rápida, mas inserções e exclusões não são.
- *
- * @author rodrigo.pires
- */
+ 
 public class ExemploArrayList {
 
     public static void main(String args[]) {
