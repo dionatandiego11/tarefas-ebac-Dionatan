@@ -1,40 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="89d14ee5-9124-48ba-8709-0286a0c86ff0" name="Changes" comment="" />
+    <list default="true" id="ae5f4e1d-9d13-4b19-b272-3ee566a01cac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Mod30.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../backend-java-ebac" beforeDir="false" afterPath="$PROJECT_DIR$/../../backend-java-ebac" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.." beforeDir="false" afterPath="$PROJECT_DIR$/.." afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
-  <component name="ProjectId" id="2h3gfoc10ClAuopk7S3XEzTZgGT" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2h3h0MPmPXF2dQ9k0PrpaVGfX3a" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.AllTests.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.ClienteDAOTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.ProdutoDAOTest.alterarProduto.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProdutoDAOTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/WorkspaceSTS/postgresql-42.7.2.jar&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/User/Downloads/EBAC/tarefas-ebac-Dionatan/Mod30/Mod30/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="main.br.com.deresende.exceptions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.AllTests">
+    <configuration name="AllTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mod30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.deresende.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.deresende" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.deresende.AllTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClienteDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mod30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.deresende.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.deresende" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.deresende.ClienteDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mod30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.deresende.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.deresende" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.deresende.ProdutoDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProdutoDAOTest.alterarProduto" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Mod30" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.br.com.deresende.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.br.com.deresende" />
+      <option name="MAIN_CLASS_NAME" value="test.br.com.deresende.ProdutoDAOTest" />
+      <option name="METHOD_NAME" value="alterarProduto" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AllTests" />
+        <item itemvalue="JUnit.ProdutoDAOTest.alterarProduto" />
+        <item itemvalue="JUnit.ProdutoDAOTest" />
+        <item itemvalue="JUnit.ClienteDAOTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="89d14ee5-9124-48ba-8709-0286a0c86ff0" name="Changes" comment="" />
-      <created>1716828284188</created>
+      <changelist id="ae5f4e1d-9d13-4b19-b272-3ee566a01cac" name="Changes" comment="" />
+      <created>1716828445932</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1716828284188</updated>
+      <updated>1716828445932</updated>
     </task>
     <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mod30$AllTests.ic" NAME="AllTests Coverage Results" MODIFIED="1717678331443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>test.br.com.deresende.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mod30$ProdutoDAOTest.ic" NAME="ProdutoDAOTest Coverage Results" MODIFIED="1717193980178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>test.br.com.deresende.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Mod30$ClienteDAOTest.ic" NAME="ClienteDAOTest Coverage Results" MODIFIED="1717193791327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>test.br.com.deresende.*</FILTER>
+    </SUITE>
   </component>
 </project>
