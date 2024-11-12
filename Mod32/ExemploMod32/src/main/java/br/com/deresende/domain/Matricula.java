@@ -28,8 +28,24 @@ public class Matricula {
     @ManyToOne
     @JoinColumn(name = "id_curso_fk",
             foreignKey = @ForeignKey(name = "fk_curso_matricula"),
-            referencedColumnName = "id", nullable = false)
+            referencedColumnName = "id", nullable = false
+    )
     private Curso curso;
+
+    public Aluno getAluno() {
+        return aluno;
+    }
+
+    public void setAluno(Aluno aluno) {
+        this.aluno = aluno;
+    }
+
+    @OneToOne
+    @JoinColumn(name = "id_aluno_fk",
+            foreignKey = @ForeignKey(name = "fk_aluno_matricula"),
+            referencedColumnName = "id", nullable = false)
+
+    private Aluno aluno;
 
     public Long getId() {
         return id;
