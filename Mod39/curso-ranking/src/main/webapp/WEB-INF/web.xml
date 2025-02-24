@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -24,4 +25,32 @@
     <servlet-name>AdicionaAvaliacaoServlet</servlet-name>
     <url-pattern>/adicionaAvaliacao</url-pattern>
   </servlet-mapping>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+                             http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+  <servlet>
+    <servlet-name>ListaCursosServlet</servlet-name>
+    <servlet-class>br.com.deresende.controller.ListaCursosServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>ListaCursosServlet</servlet-name>
+    <url-pattern>/ranking</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>AdicionaAvaliacaoServlet</servlet-name>
+    <servlet-class>br.com.deresende.controller.AdicionaAvaliacaoServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>AdicionaAvaliacaoServlet</servlet-name>
+    <url-pattern>/adicionaAvaliacao</url-pattern>
+  </servlet-mapping>
+>>>>>>> 25ecb72d8c1ae08f09e42e694df6eed168d670c4
 </web-app>

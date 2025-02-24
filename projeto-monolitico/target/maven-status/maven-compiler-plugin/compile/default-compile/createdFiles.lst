@@ -1,0 +1,4 @@
+br/com/deresende/controller/UsuarioController.class
+br/com/deresende/service/UsuarioService.class
+br/com/deresende/model/Usuario.class
+br/com/deresende/repository/UsuarioRepository.class
