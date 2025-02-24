@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="ClienteServiceAlunos/src/main/java"/>
+	<classpathentry kind="src" path="ClienteServiceAlunos/src/test/java"/>
+	<classpathentry kind="src" path="ConfigServerAlunos/src/main/java"/>
+	<classpathentry kind="src" path="ConfigServerAlunos/src/test/java"/>
+	<classpathentry kind="src" path="ProdutoServiceAlunos/src/main/java"/>
+	<classpathentry kind="src" path="ProdutoServiceAlunos/src/test/java"/>
+	<classpathentry kind="src" path="VendasServiceAlunos/src/main/java"/>
+	<classpathentry kind="src" path="VendasServiceAlunos/src/test/java"/>
+	<classpathentry excluding="ClienteServiceAlunos/src/main/java/|ClienteServiceAlunos/src/test/java/|ConfigServerAlunos/src/main/java/|ConfigServerAlunos/src/test/java/|ProdutoServiceAlunos/src/main/java/|ProdutoServiceAlunos/src/test/java/|VendasServiceAlunos/src/main/java/|VendasServiceAlunos/src/test/java/" kind="src" path=""/>
+	<classpathentry kind="lib" path="ClienteServiceAlunos/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="ConfigServerAlunos/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="ProdutoServiceAlunos/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="VendasServiceAlunos/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
