@@ -1,0 +1,5 @@
+br/com/deresende/animalservice/dto/ResgatePorFuncionarioDTO.class
+br/com/deresende/animalservice/AnimalsServiceApplication.class
+br/com/deresende/animalservice/entidades/Animal.class
+br/com/deresende/animalservice/controller/AnimalController.class
+br/com/deresende/animalservice/repositorios/AnimalRepository.class
