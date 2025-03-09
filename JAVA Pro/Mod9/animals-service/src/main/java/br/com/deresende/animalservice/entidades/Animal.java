@@ -45,11 +45,9 @@ public class Animal {
     @Column(nullable = false)
     private String especie;  // New field for species (dog/cat)
 
-    // Construtor padrão (necessário para JPA)
     public Animal() {
     }
 
-    // Construtor com parâmetros (opcional, mas útil)
     public Animal(String nomeProvisorio, Integer idadeEstimada, String raca, Date dataEntrada,
                   String condicoesChegada, String nomeRecebedor, String porte, String especie) {
         this.nomeProvisorio = nomeProvisorio;
